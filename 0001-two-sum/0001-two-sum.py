@@ -1,5 +1,5 @@
 class Solution(object):
-    def twoSum(self, nums, target):
+    def twoSum(self,nums, target):
         num_dict={}
         for i,num in enumerate(nums):
             complement=target-num
