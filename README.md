@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -87,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
