@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
