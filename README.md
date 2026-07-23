@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Recursion
 |  |
 | ------- |
