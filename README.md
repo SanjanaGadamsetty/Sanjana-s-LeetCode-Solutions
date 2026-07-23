@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
