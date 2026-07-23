@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
