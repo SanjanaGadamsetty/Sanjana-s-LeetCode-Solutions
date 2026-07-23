@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 ## Dynamic Programming
 |  |
@@ -121,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 ## Divide and Conquer
 |  |
