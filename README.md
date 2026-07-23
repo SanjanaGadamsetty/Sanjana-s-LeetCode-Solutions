@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
