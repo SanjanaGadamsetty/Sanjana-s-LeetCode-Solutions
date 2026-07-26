@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Matrix
