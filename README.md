@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,8 +136,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
