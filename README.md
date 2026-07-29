@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0885-spiral-matrix-iii](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 ## Dynamic Programming
 |  |
