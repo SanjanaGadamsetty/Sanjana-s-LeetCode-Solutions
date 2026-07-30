@@ -151,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
@@ -176,9 +178,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjanaGadamsetty/Sanjana-s-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
